@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "react-native-nomad-worker",
+    "slug": "react-native-nomad-worker"
+  }
+}
