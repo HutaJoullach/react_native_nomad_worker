@@ -1,6 +1,6 @@
 import { View, Text, TouchableOpacity, Image } from "react-native";
 
-import styles from "./nearbyjobcard.style";
+import styles from "./nearby-job-card.style";
 import { checkImageURL } from "../../../../utils";
 
 const NearbyJobCard = ({ job, handleNavigate }) => {

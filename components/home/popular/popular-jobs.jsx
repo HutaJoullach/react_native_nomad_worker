@@ -8,10 +8,10 @@ import {
   ActivityIndicator,
 } from "react-native";
 
-import styles from "./popularjobs.style";
+import styles from "./popular-jobs.style";
 import { COLORS, SIZES } from "../../../constants";
-import PopularJobCard from "../../common/cards/popular/PopularJobCard";
-import useFetch from "../../../hook/useFetch";
+import PopularJobCard from "../../common/cards/popular/popular-job-card";
+import useFetch from "../../../hook/use-fetch";
 
 const Popularjobs = () => {
   const router = useRouter();
